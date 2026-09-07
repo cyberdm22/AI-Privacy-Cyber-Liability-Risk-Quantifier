@@ -4,12 +4,7 @@ cat << 'EOF' > README.md
 **Predictive PII Leakage Liability & Breach Cost Simulator**
 *An ML-Driven Quantitative Risk Modelling Framework for Cyber Insurance Underwriting and Privacy Compliance.*
 
----
-
-## 🏛 Academic Context
-**Institution:** The National Law Institute University (NLIU), Bhopal  
-**Program:** Master of Cyber Law and Information Security (MCLIS) - III Semester  
-**Course Focus:** Business Continuity Planning (BCP) and Information Technology (IT) Audit  
+--- 
 
 ## 📖 Project Overview
 The quantification of cyber liability and the optimization of cyber insurance underwriting remain significant challenges within enterprise risk management. Traditional static audit methodologies fail to dynamically translate technical infrastructure vulnerabilities into precise financial exposure. 
