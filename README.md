@@ -77,6 +77,6 @@ python test_audit.py
 * **Testing RMSE:** ~₹8.37 Crores (against a ~₹250+ Crore penalty cap, representing a <3% error margin).
 
 ## 📜 License & Academic Integrity
-This project was developed for academic research purposes at The National Law Institute University (NLIU), Bhopal. It is intended to demonstrate the intersection of machine learning, cyber law, and IT auditing frameworks.
+This project was developed for academic research purposes. It is intended to demonstrate the intersection of machine learning, cyber law, and IT auditing frameworks.
 
 ---EOF---
