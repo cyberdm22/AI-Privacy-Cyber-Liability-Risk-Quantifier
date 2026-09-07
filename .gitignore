@@ -1,0 +1,7 @@
+# Ignore the Python virtual environment
+risk_env/
+__pycache__/
+*.pyc
+
+# Ignore large model files if they exceed GitHub's limits (though ours are small enough, it is good practice)
+# We will leave the .pkl and .csv files active for now so your repo works out of the box.
